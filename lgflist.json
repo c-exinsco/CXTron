@@ -1,0 +1,20 @@
+{
+        "name": "CXTron",
+        "logoURI": "https://c-exins.co/tokens/TRC20/cxtron-cxt/images/uploaded/TM39aqx78oWCNDrWxqwFhz18bLC4kW7yQA.png",
+        "timestamp": 1645516281000,
+        "tokens": [
+               {
+                     "chainId": 1,
+                     "address": "TNhQvaZPerVLF6YUajsTEkHfzr7jBNXCR1",
+                     "name": "CXTron",
+                     "symbol": "CXT",
+                     "decimals": 6,
+                     "logoURI": "https://c-exins.co/tokens/TRC20/cxtron-cxt/images/uploaded/TM39aqx78oWCNDrWxqwFhz18bLC4kW7yQA.png"
+               }
+         ],
+         "version": {
+                "major": 1,
+                "minor": 0,
+                "patch": 0
+        }
+}
