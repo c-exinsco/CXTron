@@ -6,6 +6,9 @@ Tron Smart Contract Network TRC20<br/>
 <br/>
 Technical information of CXTron CXT Coin<br/>
 <br/>
+
+Logo: <br/><b>https://www.c-exins.co/tokens/TRC20/cxtron-cxt/images/uploaded/TM39aqx78oWCNDrWxqwFhz18bLC4kW7yQA.png</b><br/>
+<br/>
 Name: <b>CXTron</b><br/>
 Symbol: <b>CXT</b><br/>
 Contract Address: <b>TM39aqx78oWCNDrWxqwFhz18bLC4kW7yQA</b><br/>
