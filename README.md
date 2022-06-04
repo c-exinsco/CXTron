@@ -45,21 +45,21 @@ intending to launch (in-progress) https://sunswap.com/
 
 Subscribe us for help & support and to get connected:
 
-Twitter: https://twitter.com/cexinsco
-Instagram: https://www.instagram.com/cexinsco
-Discord: https://discord.new/QQy9fskxavaD
-Pinterest: https://pinterest.com/cexinsco
-Reddit:https://www.reddit.com/user/cexinsco
-Slack: https://cexinscocrypt-dod6095.slack.com
-Facebook: https://facebook.com/cexinsco
-LinkedIn: https://linkedin.com/in/cexinsco
-Tiktok: https://tiktok.com/@cexinsco?lang=en
-Telegram: https://t.me/cexinsco
-Medium: https://c-exins-co.medium.com/cxtron-cxt-coin-685a772617e7
-Youtube: https://www.youtube.com/channel/UCjtssoExd5cf9NNKooyvW4g
-Website: https://www.c-exins.co
-Email: info@c-exins.co
-
+Twitter: https://twitter.com/cexinsco<br/>
+Instagram: https://www.instagram.com/cexinsco<br/>
+Discord: https://discord.new/QQy9fskxavaD<br/>
+Pinterest: https://pinterest.com/cexinsco<br/>
+Reddit:https://www.reddit.com/user/cexinsco<br/>
+Slack: https://cexinscocrypt-dod6095.slack.com<br/>
+Facebook: https://facebook.com/cexinsco<br/>
+LinkedIn: https://linkedin.com/in/cexinsco<br/>
+Tiktok: https://tiktok.com/@cexinsco?lang=en<br/>
+Telegram: https://t.me/cexinsco<br/>
+Medium: https://c-exins-co.medium.com/cxtron-cxt-coin-685a772617e7<br/>
+Youtube: https://www.youtube.com/channel/UCjtssoExd5cf9NNKooyvW4g<br/>
+Website: https://www.c-exins.co<br/>
+Email: info@c-exins.co<br/>
+<br/><br/><br/>
 
 Saturday, 28 May, 2022
 C-EXINS Blockchain Department, Odeonus.com
