@@ -1,7 +1,6 @@
-# CXTron
-<h1>CXTron CXT TRC20</h1>
+# CXTron-CXT
+CXTron CXT
 
-<h5>CXTron Token</h5>
 Tron Smart Contract Network TRC20<br/>
 <br/>
 Technical information of CXTron CXT Coin<br/>
